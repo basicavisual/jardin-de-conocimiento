@@ -6,9 +6,9 @@ tags: law
 
 ### La jerarquía mexicana
 
-Se basa en la pirámide de Kelsen.
+Del libro "Derecho Administrativo" de José Roldán, citado en la [Estrategia Nacional de Mejora Regulatoria](https://www.gob.mx/cms/uploads/attachment/file/490503/Estrategia_Nacional_de_Mejora_Regulatoria-Portal.pdf).
 
-![image](https://user-images.githubusercontent.com/8941178/135122284-c220ff6d-5e50-48cb-b33f-34f8f982d416.png)
+![image](https://user-images.githubusercontent.com/8941178/135938688-1d9c57c1-653f-4d0f-aac1-0b641c73ee63.png)
 
 
 
