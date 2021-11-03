@@ -1,4 +1,9 @@
 ---
+- Federal:
+  - General: https://datos.gob.mx/
+  - SEDATU: 
+        - IDE: https://ide.sedatu.gob.mx/
+        - CONAVI: https://sniiv.sedatu.gob.mx/ 
 - Ciudad de México:
   - Estatal: https://datos.cdmx.gob.mx/
 - Jalisco:
