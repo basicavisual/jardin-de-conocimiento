@@ -1,0 +1,10 @@
+---
+- Ciudad de México:
+  - Estatal: https://datos.cdmx.gob.mx/
+- Jalisco:
+  - Estatal: https://datos.jalisco.gob.mx/
+- Nuevo León:
+  - Estatal: https://nuevoleon.opendatasoft.com/explore/
+- Guanajuato:
+  - Congreso: https://datos.congresogto.gob.mx
+---
